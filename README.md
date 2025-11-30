@@ -1,6 +1,6 @@
-# 🇧🇩 Bangladesh Interactive GIS Portal
+# Bangladesh Interactive GIS Portal
 
-A professional Full-Stack Spatial Data Application designed to visualize and analyze Bangladesh's administrative hierarchy. Built with **React (Leaflet)** for the interactive frontend and **.NET 8 Web API** for a robust, data-driven backend.
+A professional Full-Stack Spatial Data Application designed to visualize and analyze Bangladesh's administrative hierarchy. Built with **React (Leaflet)** for the interactive frontend and **.NET 10 Web API** for a robust, data-driven backend.
 
 ---
 
@@ -11,7 +11,7 @@ The application features a responsive, dark-themed hero section and a clean grid
 
 | **Landing Page** | **Team Section** |
 |:---:|:---:|
-| ![Home Page](screenshots/home.jpg) | ![Team Page](screenshots/team.jpg) |
+| ![Home Page](screenshots/home.PNG) | ![Team Page](screenshots/team.PNG) |
 | *Stunning hero section with navigation* | *Responsive grid showing expert profiles* |
 
 ### 2. Advanced GIS Visualization
@@ -19,7 +19,7 @@ Users can toggle between administrative layers. The app dynamically fetches cens
 
 | **Division Layer (Level 1)** | **District Layer (Level 2)** |
 |:---:|:---:|
-| ![Division Map](screenshots/Map_Division.jpg) | ![District Map](screenshots/Map_District.jpg) |
+| ![Division Map](screenshots/Map_Division.PNG) | ![District Map](screenshots/Map_District.PNG) |
 | **Theme:** Blue | **Theme:** Green |
 | *Shows 8 major divisions with aggregated data* | *Drill-down to 64 districts with distinct styling* |
 
