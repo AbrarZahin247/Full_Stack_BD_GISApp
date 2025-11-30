@@ -11,7 +11,7 @@ The application features a responsive, dark-themed hero section and a clean grid
 
 | **Landing Page** | **Team Section** |
 |:---:|:---:|
-| ![Home Page](./screenshots/home.jpg) | ![Team Page](./screenshots/team.jpg) |
+| ![Home Page](screenshots/home.jpg) | ![Team Page](screenshots/team.jpg) |
 | *Stunning hero section with navigation* | *Responsive grid showing expert profiles* |
 
 ### 2. Advanced GIS Visualization
@@ -19,7 +19,7 @@ Users can toggle between administrative layers. The app dynamically fetches cens
 
 | **Division Layer (Level 1)** | **District Layer (Level 2)** |
 |:---:|:---:|
-| ![Division Map](./screenshots/Map_Division.jpg) | ![District Map](./screenshots/Map_District.jpg) |
+| ![Division Map](screenshots/Map_Division.jpg) | ![District Map](screenshots/Map_District.jpg) |
 | **Theme:** Blue | **Theme:** Green |
 | *Shows 8 major divisions with aggregated data* | *Drill-down to 64 districts with distinct styling* |
 
