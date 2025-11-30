@@ -1,0 +1,5 @@
+insert_districts.sql
+populate_district_table.py
+frontend/gis-frontend/node_modules/*
+backend/GISBackend/bin/*
+backend/GISBackend/obj/*

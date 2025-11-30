@@ -1,0 +1,14 @@
+@import 'leaflet/dist/leaflet.css';
+
+/* Basic setup for the map container */
+.leaflet-container {
+  width: 100%;
+  height: 80vh; /* Takes up 80% of view height */
+}
+
+#root {
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  text-align: left; /* specific fix for the centered text */
+}
